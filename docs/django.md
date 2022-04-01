@@ -20,3 +20,4 @@ py manage.py runserver
 ## 参考
 
 - https://docs.djangoproject.com/zh-hans/4.0/intro/tutorial01/ 入门例子
+- https://www.koyeb.com/tutorials/how-to-deploy-a-django-application-using-planetscale-and-koyeb saas
