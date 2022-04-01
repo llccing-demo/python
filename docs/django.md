@@ -2,6 +2,9 @@
 
 ## steps
 
+
+### install django
+
 ```shell
 # install django
 y -m pip install Django
@@ -13,9 +16,21 @@ django-admin startproject mysite
 # start server
 cd mysite/
 py manage.py runserver
-
-
 ```
+
+
+### install postgre
+
+password
+qwer
+
+### 生成数据库
+
+**注意，一定要先手动在 postgre 中创建空数据库**
+
+`py manage.py migrate`
+
+
 
 ## 参考
 
